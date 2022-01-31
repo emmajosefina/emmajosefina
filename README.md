@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <li>
   👩‍💻<strong>I'm Emma</strong>, a frontend developer with background in SEO, marketing and communication.</li>
